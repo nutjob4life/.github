@@ -1,0 +1,2 @@
+# .gtihub
+Defaults (and testing)
